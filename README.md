@@ -4,25 +4,7 @@
   <p>Explore my projects and contributions.</p>
 </div>
 
-<style>
-.banner {
-  background-color: #0366d6;
-  color: white;
-  text-align: center;
-  padding: 50px 0;
-  font-family: Arial, sans-serif;
-}
 
-.banner h1 {
-  font-size: 2.5em;
-  margin: 0;
-}
-
-.banner p {
-  font-size: 1.2em;
-  margin: 10px 0 0;
-}
-</style>
 <h1 align="center">Hi 👋, I'm Shlok Patel</h1>
 <h3 align="center">🖥️ Extremly Passionate Developer and Learning Enthusiast</h3>
 <img align="centre" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
