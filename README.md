@@ -7,11 +7,9 @@
 
 <h1 align="center">Hi 👋, I'm Shlok Patel</h1>
 <h3 align="center">🖥️ Extremly Passionate Developer and Learning Enthusiast</h3>
-<img align="centre" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1k20&label=Profile%20views&color=0e75b6&style=flat" alt="s1k20" /> </p>
-
-- 🔭 I’m currently working on **Data Analysis Platform**
 
 - 🌱 I’m currently learning **Rust,C++,JavaScript**
 
